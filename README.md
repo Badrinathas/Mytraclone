@@ -23,13 +23,6 @@ Myntra is a one stop shop for all your fashion and lifestyle needs. Being India'
 - React Icons
 
 
-## Team Members
-- Madhur Nadamwar
-- Umer Ahmad
-- Pramod Kumar
-- Sai Kiran
-
-
 ## Installing and Running
 
 <hr>
